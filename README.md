@@ -1,4 +1,5 @@
-![](./lab.ai.jh.png)
+<img src="./lab.ai.jh.edu.png" alt="Lab AI logo" width="700"/>
+
 
 I can see you're having a conversation with GPT-4o mini about AI model training and guidelines. The user (Abimereki Muzaale) raised a thoughtful question about who determines what makes AI responses "informative, clear, relevant" - pointing out the subjective nature of these criteria.
 
